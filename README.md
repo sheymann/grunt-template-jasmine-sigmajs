@@ -1,0 +1,1 @@
+Clone of `grunt-template-jasmine-requirejs` with HTML modification for Sigma.js v0.1.
